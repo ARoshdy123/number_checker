@@ -1,16 +1,14 @@
 # number_checker
 
-A new Flutter project.
+Dart project to check the input positive or negative number and even or odd number
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To execute the project you should run 'dart run lib/main.dart' without the quotation 
+Then you will add the value you would like to check 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The output screenshot
+
+![img.png](img.png)
